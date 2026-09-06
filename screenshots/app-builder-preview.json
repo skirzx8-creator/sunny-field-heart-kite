@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lócus",
+      "hasCanvas": false,
+      "bodyTextLen": 230,
+      "bodyTextHash": "a53df31f5b7fd909dbc04b1e2267b8f0fab93dacb4cba43fcc8b1a5bb53efc1d",
+      "bodyTextPrefix": "BIOLOGIA MOLECULAR Lócus As mesmas perguntas e respostas do mate",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lócus",
+      "hasCanvas": false,
+      "bodyTextLen": 230,
+      "bodyTextHash": "a53df31f5b7fd909dbc04b1e2267b8f0fab93dacb4cba43fcc8b1a5bb53efc1d",
+      "bodyTextPrefix": "BIOLOGIA MOLECULAR Lócus As mesmas perguntas e respostas do mate",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
